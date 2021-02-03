@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Janaína</h1>
 
 🌱 I’m currently learning **C**
+
 📫 How to reach me **janainasantos893@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
