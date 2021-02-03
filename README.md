@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Janaína</h1>
+### Hi there, welcome to my page! 👋
 
 🌱 I’m currently learning **C**
 
