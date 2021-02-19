@@ -1,6 +1,6 @@
 ### Hi there, welcome to my page! 👋
 
-🌱 I’m currently learning **C**
+🌱 I’m currently learning **C** and **Java**
 
 📫 How to reach me **janainasantos893@gmail.com**
 
