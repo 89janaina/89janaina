@@ -1,6 +1,6 @@
 ### Hi there, welcome to my page! 👋
 
-🌱 I’m currently learning **HTML**
+🌱 I’m currently learning **HTML**, **CSS** and **JavaScript**
 
 📫 How to reach me **janainasantos893@gmail.com**
 
